@@ -59,4 +59,4 @@ organizaciones mejorar sus operaciones y tomar decisiones basadas en datos confi
 implementación conlleva retos significativos, los beneficios a mediano y largo plazo justifican la
 inversión para muchas compañías.
 
-## Fin 
+## Gracias
